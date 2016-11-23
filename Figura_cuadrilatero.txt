@@ -1,0 +1,4 @@
+
+Figura cuadrilatero:
+Area: 25
+Perimetro: 20

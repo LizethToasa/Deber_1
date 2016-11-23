@@ -1,0 +1,5 @@
+
+Area: 30.0
+Perimetro: 36.0
+Area: 40.0
+Perimetro: 24.0

@@ -1,0 +1,10 @@
+
+Figura triangulo:
+Area: 270.0
+Perimetro: 135.0
+Figura triangulo:
+Area: 1755.0
+Perimetro: 135.0
+Figura triangulo:
+Area: 210.0
+Perimetro: 105.0

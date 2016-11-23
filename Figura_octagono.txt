@@ -1,0 +1,4 @@
+
+Figura octagono:
+Area: 288.0
+Perimetro: 96
